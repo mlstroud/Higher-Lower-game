@@ -1,0 +1,10 @@
+C:\dev-project\epicodus_code\week-8C#\HigherLower-Game\obj\Debug\netcoreapp2.2\HigherLower-Game.csprojAssemblyReference.cache
+C:\dev-project\epicodus_code\week-8C#\HigherLower-Game\obj\Debug\netcoreapp2.2\HigherLower-Game.AssemblyInfoInputs.cache
+C:\dev-project\epicodus_code\week-8C#\HigherLower-Game\obj\Debug\netcoreapp2.2\HigherLower-Game.AssemblyInfo.cs
+C:\dev-project\epicodus_code\week-8C#\HigherLower-Game\bin\Debug\netcoreapp2.2\HigherLower-Game.deps.json
+C:\dev-project\epicodus_code\week-8C#\HigherLower-Game\bin\Debug\netcoreapp2.2\HigherLower-Game.runtimeconfig.json
+C:\dev-project\epicodus_code\week-8C#\HigherLower-Game\bin\Debug\netcoreapp2.2\HigherLower-Game.runtimeconfig.dev.json
+C:\dev-project\epicodus_code\week-8C#\HigherLower-Game\bin\Debug\netcoreapp2.2\HigherLower-Game.dll
+C:\dev-project\epicodus_code\week-8C#\HigherLower-Game\bin\Debug\netcoreapp2.2\HigherLower-Game.pdb
+C:\dev-project\epicodus_code\week-8C#\HigherLower-Game\obj\Debug\netcoreapp2.2\HigherLower-Game.dll
+C:\dev-project\epicodus_code\week-8C#\HigherLower-Game\obj\Debug\netcoreapp2.2\HigherLower-Game.pdb
